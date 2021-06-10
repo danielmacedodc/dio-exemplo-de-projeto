@@ -1,7 +1,7 @@
 # dio-exemplo-de-projeto
 Exemplo de projeto realizado com auxílio do Professor Rodrigo Peleias da Digital Innovation One.
 
-Este repositório é bastante similar ao desenvolvido pelo Professor Rodrigo Peleias, de forma que o mesmo foi reproduzido para fins educacionais com o objetivo de compreender os conceitos de API REST com Spring.
+Este repositório é bastante similar ao desenvolvido pelo Professor Rodrigo Peleias, de forma que o mesmo foi reproduzido para fins educacionais com o objetivo de compreender os conceitos de API REST com Spring Boot.
 
 Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 
